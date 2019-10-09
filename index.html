@@ -1,22 +1,15 @@
 <html>
-  <head>
-    <title>Style Savvy Random Generator</title>
-  </head>
-  <body>
-    <h1>Style Savvy/Style Boutique/Girls Mode Random Generator</h1>
-    <div id="imageDisplay">
-      <!-- Images will display here -->
-    </div>
-      <button onclick="newImage()")>Random Image</button>
-    <div id="colorDisplay">
-      <!-- Colors will display here -->
-    </div>
-    	<button onclick="newColor()"()>Random Color</button>
-     <div id="patternDisplay">
-     	<!-- Colors will display here -->
-    </div>
-        <button onclick="newPattern()">Random Pattern</button>
-    
-    <script src="javascript.js"></script>
-  </body>
-</html>
+<body>
+
+<p id="one"></p>
+<button onclick="random()">Random Number from 1-10</button>
+
+<script>
+ function random(){
+
+document.getElementById("one").innerHTML = Math.floor(Math.random() * 10);
+}
+
+</script>
+
+</body>
