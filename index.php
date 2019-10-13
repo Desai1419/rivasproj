@@ -7,7 +7,7 @@
 <script>
  function random(){
 
-document.getElementById("one").innerHTML = Math.floor(Math.random() * 99999999) + 1;
+document.getElementById("one").innerHTML = Math.floor(Math.random() * 100000) + 1;
 }
 
 </script>
