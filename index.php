@@ -11,12 +11,13 @@
 <body>
 
  <center><font color="white"><p id="one"></p></font></center>
- <center><button onclick="random()">Random Numbers</button></center>
+ <center><button onclick="random()">Press to Reveal Random Numbers</button></center>
+ <center><font color="white"><h2>TEST YOUR LUCK AND GET 42069 TO 69420 TO GET NOICE</h2></font></center>
 
 <script>
  function random(){
 
-document.getElementById("one").innerHTML = Math.floor(Math.random() * 9999999) + 1;
+document.getElementById("one").innerHTML = Math.floor(Math.random() * 99999) + 1;
 }
 
 </script>
