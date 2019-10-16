@@ -10,7 +10,7 @@
  </head>
 <body>
 
- <marquee behavior="scroll" direction="right"><font color="white">FUck you</font></marquee>
+ <marquee behavior="scroll" direction="right"><font color="white">Hello! Don't mind this its just a random text floating</font></marquee>
  
  <center><font color="white"><p id="one"></p></font></center>
  <center><button onclick="random()">Press to Reveal Random Numbers</button></center>
