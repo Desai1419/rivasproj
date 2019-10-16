@@ -6,8 +6,7 @@
   background-repeat: no-repeat;
      background-size: 100% 100%;
    }
-  </style>
-  <style>
+
 .example1 {
  height: 50px;	
  overflow: hidden;
@@ -54,7 +53,6 @@
 }
 </style>
 
-<!-- HTML -->	
 <div class="index">
 <h3>Fuck you </h3>
 </div>
