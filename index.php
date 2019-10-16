@@ -12,11 +12,11 @@
 
  <marquee behavior="scroll" direction="right"><font color="white">Hello! Don't mind this its just a random text passing by!</font></marquee>
  
- <div class="topnav">
+ <div class="topnav"><center>
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
-  <input type="text" placeholder="Search..">
+  <input type="text" placeholder="Search.."></center>
 </div>
  
  <center><font color="white"><p id="one"></p></font></center>
