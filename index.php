@@ -24,6 +24,8 @@ document.getElementById("one").innerHTML = Math.floor(Math.random() * 99999) + 1
 
 </script>
 <center><img src="http://giphygifs.s3.amazonaws.com/media/Bh7KK846NiNTG/giphy.gif" width="200" height="121" ></center>
+ <center><font color="white"><h2>What are my chances on passing this sem?</h2></font></center>
+ <center><img src="https://media3.giphy.com/media/Ll2fajzk9DgaY/giphy.gif"></center>
 
  
 
