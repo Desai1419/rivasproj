@@ -7,11 +7,10 @@
      background-size: 100% 100%;
    }
   </style>
-</div>
  </head>
 <body>
 
- <marquee behavior="scroll" direction="right">Here is some scrolling text... left to right!</marquee>
+ <marquee behavior="scroll" direction="right"><font color="white">FUck you</font></marquee>
  
  <center><font color="white"><p id="one"></p></font></center>
  <center><button onclick="random()">Press to Reveal Random Numbers</button></center>
