@@ -51,10 +51,10 @@
  transform: translateX(-100%); 
  }
 }
-</style>
 
 <div class="index">
 <h3>Fuck you </h3>
+  </style>
 </div>
  </head>
 <body>
