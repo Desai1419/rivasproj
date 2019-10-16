@@ -13,10 +13,14 @@
  <marquee behavior="scroll" direction="right"><font color="white">Hello! Don't mind this its just a random text passing by!</font></marquee>
  
  <div class="topnav"><center>
-  <a class="active" href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
   <input type="text" placeholder="Search.."></center>
+  <br>
+  <a class="active" href="#home">Home</a>
+  <br>
+  <a href="#about">About</a>
+  <br>
+  <a href="#contact">Contact</a>
+  <br>
 </div>
  
  <center><font color="white"><p id="one"></p></font></center>
