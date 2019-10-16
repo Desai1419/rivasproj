@@ -11,6 +11,9 @@
 <body>
 
  <marquee behavior="scroll" direction="right"><font color="white">FUck you</font></marquee>
+ <center><button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+  Click me to display Date and Time.</button></center>
  
  <center><font color="white"><p id="one"></p></font></center>
  <center><button onclick="random()">Press to Reveal Random Numbers</button></center>
