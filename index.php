@@ -15,11 +15,14 @@
  <div class="topnav"><center>
   <input type="text" placeholder="Search..">
   <br>
+  <font color="white">
   <a class="active" href="#home">Home</a>
   <br>
   <a href="#about">About</a>
   <br>
-  <a href="#contact">Contact</a></center>
+  <a href="#contact">Contact</a>
+  </font>
+  </center>
 </div>
  
  <center><font color="white"><p id="one"></p></font></center>
