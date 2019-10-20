@@ -43,3 +43,4 @@ document.getElementById("one").innerHTML = Math.floor(Math.random() * 99999) + 1
  
 
 </body>
+</html>
