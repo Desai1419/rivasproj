@@ -12,19 +12,7 @@
 
  <marquee behavior="scroll" direction="right"><font color="white">Hello! Don't mind this its just a random text passing by!</font></marquee>
  
- <div class="topnav"><center>
-  <input type="text" placeholder="Search..">
-  <br>
-  <font color="white">
-  <a class="active" href="#home">Home</a>
-  <br>
-  <a href="#about">About</a>
-  <br>
-  <a href="#contact">Contact</a>
-  </font>
-  </center>
-</div>
- 
+
  <center><font color="white"><p id="one"></p></font></center>
  <center><button onclick="random()">Press to Reveal Random Numbers</button></center>
  <center><font color="white"><h2>TEST YOUR LUCK AND GET 42069 OR 69420 TO PASS THIS SEM</h2></font></center>
