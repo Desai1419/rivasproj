@@ -40,7 +40,7 @@ document.getElementById("one").innerHTML = Math.floor(Math.random() * 99999) + 1
  <center><font color="white"><h2>What are my chances on passing this sem?</h2></font></center>
  <center><img src="https://media3.giphy.com/media/Ll2fajzk9DgaY/giphy.gif"></center>
 
- <h2><right><a href="skyrim.html">Click here to change background!</href></right></h2>
+ <h2 style="text-align:right;"><right><a href="skyrim.html">Click here to change background!</href></right></h2>
 
 </body>
 </html>
